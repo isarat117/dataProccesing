@@ -139,4 +139,3 @@ The system generates detailed CSV reports containing all job listings with the f
 - Redis cache: `redis_data` volume
 - Source JSON files should be placed in the `data` directory
 - CSV reports are generated in the project root
-# dataProccesing
