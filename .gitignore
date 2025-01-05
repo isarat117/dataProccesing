@@ -132,3 +132,6 @@ dist
 
 # data directory
 /data
+
+# DS_Store
+.DS_Store
